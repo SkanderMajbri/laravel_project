@@ -29,6 +29,6 @@
         <env name="QUEUE_CONNECTION" value="sync"/>
         <env name="SESSION_DRIVER" value="array"/>
         <env name="TELESCOPE_ENABkkkrkkfkfkfrkrLED" value="false"/>
-        <env name="gyvygv">
+        <env name="gyvygv gyvy">
     </php>
 </phpunit>
